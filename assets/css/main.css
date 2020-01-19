@@ -1952,7 +1952,7 @@
 			button,
 			.button {
 				padding: 0;
-				width: 100%;
+				width: 30%;
 			}
 
 		}
@@ -1962,8 +1962,8 @@
 	input[type="button"],
 	button,
 	.button {
-		background-color: #3498db;
-		color: #fff !important;
+		background-color: #d0d0d0;
+		color: #4a4a4a !important;
 	}
 
 		input[type="submit"]:hover,
@@ -1971,7 +1971,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #4aa3df;
+			background-color: #e7e7e7;
 		}
 
 		input[type="submit"]:active,
@@ -1979,7 +1979,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #258cd1;
+			background-color: #e7e7e7;
 		}
 
 		input[type="submit"].alt,
@@ -2941,8 +2941,8 @@
 			.wrapper.style1 input[type="button"],
 			.wrapper.style1 button,
 			.wrapper.style1 .button {
-				background-color: #3498db;
-				color: #fff !important;
+				background-color: #d0d0d0;
+				color: #4a4a4a !important;
 			}
 
 				.wrapper.style1 input[type="submit"]:hover,
@@ -2950,7 +2950,7 @@
 				.wrapper.style1 input[type="button"]:hover,
 				.wrapper.style1 button:hover,
 				.wrapper.style1 .button:hover {
-					background-color: #4aa3df;
+					background-color: #e7e7e7;
 				}
 
 				.wrapper.style1 input[type="submit"]:active,
